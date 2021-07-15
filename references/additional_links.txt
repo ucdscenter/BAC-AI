@@ -1,0 +1,4 @@
+OCULAR KAGGLE PROJECT: https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
+
+CANCER MAMMOGRAPHY: https://www.nature.com/articles/s41591-020-01174-9
+https://github.com/DeepHealthAI/dh_evaluation_server
